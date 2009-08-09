@@ -185,7 +185,11 @@ latex_documents = [
 #latex_use_parts = False
 
 # Additional stuff for the LaTeX preamble.
-#latex_preamble = ''
+latex_preamble = r'''
+\newcommand{\ReP}{\mathop{\mathrm{Re}}\nolimits}
+\newcommand{\ImP}{\mathop{\mathrm{Im}}\nolimits}
+\newcommand{\im}{\mathrm{i}}
+'''
 
 # Documents to append as an appendix to all manuals.
 #latex_appendices = []

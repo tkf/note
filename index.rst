@@ -3,13 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to tkf's Brain Dump's documentation!
-============================================
+================================
+巨人の肩の上へ/tkf's Brain Dump 
+================================
 
-Contents:
+Contents
+=========
 
 .. toctree::
    :maxdepth: 2
+
+   statistics
+   An-Intro-to-Boltzmann-dist-from-ECC
+   latex-tips
 
 Indices and tables
 ==================
